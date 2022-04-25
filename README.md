@@ -14,11 +14,11 @@ You are free to copy and re use my code as you please.
 
 > # main.py
 >
-> - is a full fledged program where you can create the key file aswell as set the directories to encrypt trough the CLI.
+> - Full fledged program where you can create the key file aswell as set the directories to encrypt trough the CLI.
 >
 > # encrypt.py and decrypt.py
 >
-> - are standalone CLI were made to have no output to the user, fast encrypt and decrypt functions
+> - Standalone CLI were made to have no output to the user, fast encrypt and decrypt functions
 >
 > # crypto.py
 >
