@@ -1,6 +1,10 @@
 from crypto import encrypt
 import os
-
+"""
+The idea behind separate encrypt and decrypt files is to
+run then independently given that the key file exists and
+rhe dirs.txt file exist in the given directories
+"""
 WORKING_DIR = 'C:/Users/Administrator/AppData/Local/'
 KEY_FILE = WORKING_DIR + 'key.key'
 DIRS_FILE = WORKING_DIR + 'dirs.txt'
