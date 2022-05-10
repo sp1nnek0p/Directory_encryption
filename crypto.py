@@ -51,7 +51,14 @@ def encrypt(path: str, keyfilepath: str) -> None:
 
 
 def decrypt(path: str, keyfilepath: str) -> None:
-
+    """ 
+    Public function encrypt. 
+    Param: path takes a string path to decrypt
+    Param: keyfilepath takes a string path to the key
+    function will go trough every directory and 
+    sub directory in path string and decrypt every file
+    it finds 
+    """
     fernet = _return_key(keyfilepath, True)
 
     for subdir, dir, files in os.walk(path):
