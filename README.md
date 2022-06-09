@@ -13,6 +13,7 @@ I created 2 quiet modules encrypt.py and decrypt.py. These files should quicly e
 ## How to Use/Run
 
 This was writen in Python 3.10 on windows 10, so should run fine on your system if you have python 3.10 installed.
+This app was not tested on Linux or Max, you are more than welcome to modify the code for your OS and to let me know if it works.
 
 Simply run main.py
 
