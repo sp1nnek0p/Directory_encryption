@@ -15,7 +15,7 @@ I created 2 quiet modules encrypt.py and decrypt.py. These files should quicly e
 This was writen in Python 3.10 on windows 10, so should run fine on your system if you have python 3.10 installed.
 This app was not tested on Linux or Max, you are more than welcome to modify the code for your OS and to let me know if it works.
 
-Simply run main.py
+Simply run main.py, and follow the CLI prompts
 
 ### Additional modules needed
 
@@ -40,8 +40,8 @@ I will add some later
 > encrypt.py and decrypt.py
 > - Quiet modules, that run quicly and silently without user interaction (key.key and Dirs.txt file should exist)
 
-### Disclaimer
->This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume NO liability and are not responsible for any misuse or damage caused by this tool and software in general.
+### NB!! Disclaimer
+>This tool is only for testing and academic purposes and can only be used where strict consent has been given. Do not use it for illegal purposes! It is the end user’s responsibility to obey all applicable local, state and federal laws. Developers assume 'NO liability' and are not responsible for any misuse or damage caused by this tool and software in general.
 ---
 
 <p align="center"> <a href="https://twitter.com/paulstryd" target="blank"><img src="https://img.shields.io/twitter/follow/paulstryd?logo=twitter&style=for-the-badge" alt="paulstryd" /></a> </p>
